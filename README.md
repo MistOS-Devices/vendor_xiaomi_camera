@@ -17,5 +17,3 @@ Prebuilt MIUI Camera to include in custom ROM builds.
 # Camera
 $(call inherit-product-if-exists, vendor/xiaomi/camera/miuicamera.mk)
 ```
-# vendor_xiaomi_camera
-# vendor_xiaomi_camera
